@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="GitHubApplication2.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="GitHubApplication2.WebForm2" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <h1>Welcome</h1>
+    
     </div>
     </form>
 </body>
